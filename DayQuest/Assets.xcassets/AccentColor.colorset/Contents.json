@@ -1,7 +1,21 @@
 {
   "colors" : [
     {
+      "color" : {
+        "color-space" : "display-p3",
+        "components" : {
+          "alpha" : "1.000",
+          "blue" : "0.934",
+          "green" : "1.000",
+          "red" : "0.355"
+        }
+      },
       "idiom" : "universal"
+    },
+    {
+      "filename" : "4A7F9631-F888-4D7C-8A65-AFEF24416E43.png",
+      "idiom" : "universal",
+      "unassigned" : true
     }
   ],
   "info" : {
